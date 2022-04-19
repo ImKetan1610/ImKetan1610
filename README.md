@@ -15,8 +15,8 @@ Here are some ideas to get you started:
 - ⚡ Fun fact: ...
 -->
 <h1 align="center">Hi 👋, I'm Ketan</h1>
-<h3 align="center">A passionate full stack developer from India</h3>
-<h3 align="left">🙋‍♂️ About Me</h3>
+<h3 align="center">A MERN stack developer from India</h3>
+<h1 align="center">🙋‍♂️ About Me</h1>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imketan1610&label=Profile%20views&color=0e75b6&style=flat" alt="imketan1610" /> </p>
 
