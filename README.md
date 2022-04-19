@@ -22,13 +22,17 @@ Here are some ideas to get you started:
 
 - 🌱 I’m a student pursuing **Full Stack Web Development** at [**Masai School**](https://www.masaischool.com/)
 
-- 📝 I regularly write articles on [My Blogs](https://medium.com/@ketan.makode)
+- 👯 Looking forwardd to launching my career as an **SDE**
+
+- 🤔 All of my projects are available at [**My Github Repositories**](https://github.com/ImKetan1610?tab=repositories)
+
+- 📝 I regularly write articles on [**My Blogs**](https://medium.com/@ketan.makode)
 
 - 💬 Ask me about **react, JS, redux**
 
 - 📫 How to reach me **ketan.makode@gmail.com**
 
-- 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1GRjjYMqJAbb1Tz8yOox9KTGbz3zSSuqN/view?usp=sharing)
+- 👨🏻‍🎓 Know about my experiences [**My Resume**](https://drive.google.com/file/d/1GRjjYMqJAbb1Tz8yOox9KTGbz3zSSuqN/view?usp=sharing)
 
 <h1 align="left">📊 My Github Stats</h1>
 
