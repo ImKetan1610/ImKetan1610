@@ -17,6 +17,8 @@ Here are some ideas to get you started:
 <h1 align="center">Hi 👋, I'm Ketan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
 
+<h3 align="left">Work</h1>
+
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imketan1610&label=Profile%20views&color=0e75b6&style=flat" alt="imketan1610" /> </p>
 
 - 🌱 I’m currently learning **React and Redux**
@@ -29,7 +31,6 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1GRjjYMqJAbb1Tz8yOox9KTGbz3zSSuqN/view?usp=sharing)
 
-<h3 align="left">Work</h1>
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imketan1610&show_icons=true&locale=en&layout=compact" alt="imketan1610" /></p>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api?username=imketan1610&show_icons=true&locale=en" alt="imketan1610" /></p>
