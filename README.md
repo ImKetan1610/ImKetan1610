@@ -21,7 +21,7 @@ Here are some ideas to get you started:
 
 - 🌱 I’m currently learning **React and Redux**
 
-- 📝 I regularly write articles on [https://medium.com/@ketan.makode](https://medium.com/@ketan.makode)
+- 📝 I regularly write articles on [My Blogs](https://medium.com/@ketan.makode)
 
 - 💬 Ask me about **react, JS, redux**
 
