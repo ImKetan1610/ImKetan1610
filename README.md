@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%;">, I'm Ketan</h1>
 <h3 align="center">A MERN stack developer from India</h3>
 
-<img src="https://raw.githubusercontent.com/mohammad2407/mohammad2407/main/gif-1.gif" width="30px" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/mohammad2407/mohammad2407/main/gif-1.gif" style="max-width: 100%;">
 
 <h1 align="left">🙋‍♂️ About Me</h1>
 
