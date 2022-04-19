@@ -17,7 +17,7 @@ Here are some ideas to get you started:
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="30px" style="max-width: 100%;">, I'm Ketan</h1>
 <h3 align="center">A MERN stack developer from India</h3>
 
-<img src="https://raw.githubusercontent.com/mohammad2407/mohammad2407/main/gif-1.gif" style="max-width: 100%;">
+<img src="https://raw.githubusercontent.com/mohammad2407/mohammad2407/main/gif-1.gif" style="max-width: 100%;"><br>
 
 <h1 align="left">🙋‍♂️ About Me</h1>
 
@@ -35,17 +35,18 @@ Here are some ideas to get you started:
 
 - 📫 How to reach me **ketan.makode@gmail.com**
 
-- 👨🏻‍🎓 Know about my experiences [**My Resume**](https://drive.google.com/file/d/1GRjjYMqJAbb1Tz8yOox9KTGbz3zSSuqN/view?usp=sharing)<br>
+- 👨🏻‍🎓 Know about my experiences [**My Resume**](https://drive.google.com/file/d/1GRjjYMqJAbb1Tz8yOox9KTGbz3zSSuqN/view?usp=sharing)
 
+<br>
 <h1 align="left">📊 My Github Stats</h1>
 
-<p><img align="right" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=imketan1610&show_icons=true&locale=en&layout=compact" alt="imketan1610" /></p>
+<p><img align="right" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=imketan1610&show_icons=true&locale=en&layout=compact" alt="imketan1610" /></p> <br>
 
-<p><img align="right" width="100%" style="background-color:black" src="https://github-readme-stats.vercel.app/api?username=imketan1610&show_icons=true&locale=en" alt="imketan1610" /></p>
+<p><img align="right" width="100%" style="background-color:black" src="https://github-readme-stats.vercel.app/api?username=imketan1610&show_icons=true&locale=en" alt="imketan1610" /></p> <br>
 
 <p><img align="right" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=imketan1610&" alt="imketan1610" /></p> <br>
 
-
+<br>
 <h1 align="left">✉️ Connect with me:</h1>
 <p align="left">
 <a href="https://twitter.com/ketanmakode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ketanmakode" height="30" width="40" /></a>
