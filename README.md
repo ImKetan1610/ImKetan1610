@@ -20,7 +20,7 @@ Here are some ideas to get you started:
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imketan1610&label=Profile%20views&color=0e75b6&style=flat" alt="imketan1610" /> </p>
 
-- 🌱 I’m currently learning **React and Redux**
+- 🌱 I’m a student pursuing **Full Stack Web Development** at [**Masai School**](https://www.masaischool.com/)
 
 - 📝 I regularly write articles on [My Blogs](https://medium.com/@ketan.makode)
 
