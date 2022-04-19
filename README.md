@@ -16,8 +16,7 @@ Here are some ideas to get you started:
 -->
 <h1 align="center">Hi 👋, I'm Ketan</h1>
 <h3 align="center">A passionate full stack developer from India</h3>
-
-<h3 align="left">🙋‍♂️ About Me</h1>
+<h3 align="left">🙋‍♂️ About Me</h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imketan1610&label=Profile%20views&color=0e75b6&style=flat" alt="imketan1610" /> </p>
 
@@ -30,6 +29,8 @@ Here are some ideas to get you started:
 - 📫 How to reach me **ketan.makode@gmail.com**
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1GRjjYMqJAbb1Tz8yOox9KTGbz3zSSuqN/view?usp=sharing)
+
+<h3 align="left">📊 My Github Stats</h3>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imketan1610&show_icons=true&locale=en&layout=compact" alt="imketan1610" /></p>
 
