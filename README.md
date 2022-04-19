@@ -30,7 +30,7 @@ Here are some ideas to get you started:
 
 - 📄 Know about my experiences [My Resume](https://drive.google.com/file/d/1GRjjYMqJAbb1Tz8yOox9KTGbz3zSSuqN/view?usp=sharing)
 
-<h3 align="left">📊 My Github Stats</h3>
+<h1 align="left">📊 My Github Stats</h1>
 
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=imketan1610&show_icons=true&locale=en&layout=compact" alt="imketan1610" /></p>
 
