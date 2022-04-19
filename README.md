@@ -37,7 +37,6 @@ Here are some ideas to get you started:
 
 - 👨🏻‍🎓 Know about my experiences [**My Resume**](https://drive.google.com/file/d/1GRjjYMqJAbb1Tz8yOox9KTGbz3zSSuqN/view?usp=sharing)
 
-<br>
 <h1 align="left">📊 My Github Stats</h1>
 
 <p><img align="right" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=imketan1610&show_icons=true&locale=en&layout=compact" alt="imketan1610" /></p> <br>
@@ -46,8 +45,7 @@ Here are some ideas to get you started:
 
 <p><img align="right" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=imketan1610&" alt="imketan1610" /></p> <br>
 
-<br>
-<h1 align="left">✉️ Connect with me:</h1>
+<br><h1 align="left">✉️ Connect with me:</h1>
 <p align="left">
 <a href="https://twitter.com/ketanmakode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ketanmakode" height="30" width="40" /></a>
 <a href="https://linkedin.com/in/ketan-makode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/linked-in-alt.svg" alt="ketan-makode" height="30" width="40" /></a>
