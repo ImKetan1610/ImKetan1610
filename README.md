@@ -40,6 +40,8 @@ Here are some ideas to get you started:
 
 - 👨🏻‍🎓 Know about my experiences [**My Resume**](https://drive.google.com/file/d/1GRjjYMqJAbb1Tz8yOox9KTGbz3zSSuqN/view?usp=sharing)
 
+- 💬 Have a look at my [**Portfolio**](https://portfolio-of-ketan.netlify.app)
+
 <h1 align="left">📊 My Github Stats</h1>
 
 <p><img align="right" width="100%" src="https://github-readme-stats.vercel.app/api/top-langs?username=imketan1610&show_icons=true&locale=en&layout=compact" alt="imketan1610" /></p> <br>
