@@ -40,7 +40,7 @@ Here are some ideas to get you started:
 
 - 👨🏻‍🎓 Know about my experiences [**My Resume**](https://drive.google.com/file/d/1GRjjYMqJAbb1Tz8yOox9KTGbz3zSSuqN/view?usp=sharing)
 
-- 💬 Have a look at my [**Portfolio**](https://portfolio-of-ketan.netlify.app)
+- 💬 Have a look at my [**Portfolio**](https://ketan-makode.netlify.app/)
 
 <h1 align="left">📊 My Github Stats</h1>
 
