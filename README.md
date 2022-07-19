@@ -14,7 +14,7 @@ Here are some ideas to get you started:
 - 😄 Pronouns: ...
 - ⚡ Fun fact: ...
 <h3 align="center">A MERN stack developer from India</h3>
-[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times+new+roman&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Ketan+Makode;A+MERN+stack+developer+from+Maharashtra%2C+India;I+enjoy+learning+new+things)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times+new+roman&lines=Hi+there+%F0%9F%91%8B%2C +I+am+Ketan+Makode;A+MERN+stack+developer+from+Maharashtra%2C+India;I+enjoy+learning+new+things)](https://git.io/typing-svg)
 -->
 <h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="5%">, I'm Ketan Makode from Maharashtra, India</h1>
 
