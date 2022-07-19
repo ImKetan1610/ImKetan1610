@@ -18,7 +18,7 @@ Here are some ideas to get you started:
 [![Typing SVG](https://readme-typing-svg.herokuapp.com?font=times+new+roman&lines=Hi+there+%F0%9F%91%8B%2C+I+am+Ketan+Makode;A+MERN+stack+developer+from+Maharashtra%2C+India;I+enjoy+learning+new+things)](https://git.io/typing-svg)
 -->
 
-<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50%">, I'm Ketan Makode from Maharashtra, India</h1>
+<h1 align="center">Hi <img src="https://raw.githubusercontent.com/MartinHeinz/MartinHeinz/master/wave.gif" width="50px">, I'm Ketan Makode from Maharashtra, India</h1>
 
 <h3 align="center"><img src="https://readme-typing-svg.herokuapp.com?font=times+new+roman&size=22&duration=4000&color=2691F7&lines=An+aspiring+MERN+stack+developer;I+enjoy+learning+new+things" style="margin: auto;"></h3>
 
