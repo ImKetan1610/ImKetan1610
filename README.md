@@ -29,21 +29,13 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imketan1610&label=Profile%20views&color=0e75b6&style=flat" alt="imketan1610" /> </p>
 
 - 🌱 I’m a student pursuing **Full Stack Web Development** at [**Masai School**](https://www.masaischool.com/)
-
 - 👯 Looking forwardd to launching my career as an **SDE**
-
 - 🤔 All of my projects are available at [**My Github Repositories**](https://github.com/ImKetan1610?tab=repositories)
-
 - 📝 I regularly write articles on [**My Blogs**](https://medium.com/@ketan.makode)
-
 - 💬 Ask me about **react, JS, redux**
-
 - 📫 How to reach me **ketan.makode@gmail.com**
-
 - 👨🏻‍🎓 Know about my experiences [**My Resume**](https://drive.google.com/file/d/1GRjjYMqJAbb1Tz8yOox9KTGbz3zSSuqN/view?usp=sharing)
-
 - 💬 Have a look at my [**Portfolio**](https://ketan-makode.netlify.app/)
-
 - You can connect with me on [**LinkedIn**](https://www.linkedin.com/in/ketan-makode/)
 
 
@@ -63,5 +55,5 @@ Here are some ideas to get you started:
 <h1 align="left">📊 My Github Stats</h1>
 
 <p><img align="left" width="48%" src="https://github-readme-stats.vercel.app/api/top-langs?username=imketan1610&show_icons=true&locale=en&layout=compact" alt="imketan1610" /></p> 
-<p><img align="right" width="48%" style=" background-color:black" src="https://github-readme-stats.vercel.app/api?username=imketan1610&show_icons=true&locale=en" alt="imketan1610" /></p>
-<p><img align="right" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=imketan1610&" alt="imketan1610" /></p> <br><br><br>
+<p><img align="right" width="48%" style=" background-color:black" src="https://github-readme-stats.vercel.app/api?username=imketan1610&show_icons=true&locale=en" alt="imketan1610" /></p><br><br>
+<p><img align="center" width="95%" src="https://github-readme-streak-stats.herokuapp.com/?user=imketan1610&" alt="imketan1610" /></p> <br>
