@@ -49,7 +49,7 @@ Here are some ideas to get you started:
 <h1 align="left">📊 My Github Stats</h1>
 
 <p><img align="left" width="49%" src="https://github-readme-stats.vercel.app/api/top-langs?username=imketan1610&show_icons=true&locale=en&layout=compact" alt="imketan1610" /></p> 
-<p><img align="right" width="49%" style="padding-right:0.5%; background-color:black" src="https://github-readme-stats.vercel.app/api?username=imketan1610&show_icons=true&locale=en" alt="imketan1610" /></p>
+<p><img align="right" width="49%" style=" background-color:black" src="https://github-readme-stats.vercel.app/api?username=imketan1610&show_icons=true&locale=en" alt="imketan1610" /></p>
 <p><img align="right" width="100%" src="https://github-readme-streak-stats.herokuapp.com/?user=imketan1610&" alt="imketan1610" /></p> <br><br><br>
 
 <h1 align="left"><br>✉️ Connect with me:</h1>
