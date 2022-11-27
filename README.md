@@ -39,6 +39,7 @@ Here are some ideas to get you started:
 - You can connect with me on [**LinkedIn**](https://www.linkedin.com/in/ketan-makode/)
 
 
+
 <h1 align="left"><br>✉️ Connect with me:</h1>
 <p align="left">
 <a href="https://twitter.com/ketanmakode" target="blank"><img align="center" src="https://raw.githubusercontent.com/rahuldkjain/github-profile-readme-generator/master/src/images/icons/Social/twitter.svg" alt="ketanmakode" height="30" width="40" /></a>
