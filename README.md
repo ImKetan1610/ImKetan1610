@@ -29,7 +29,7 @@ Here are some ideas to get you started:
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=imketan1610&label=Profile%20views&color=0e75b6&style=flat" alt="imketan1610" /> </p>
 
 - 🌱 I’m a student pursuing **Full Stack Web Development** at [**Masai School**](https://www.masaischool.com/)
-- 👯 Looking forwardd to launching my career as an **SDE**
+- 👯 Looking forward to launching my career as an **SDE**
 - 🤔 All of my projects are available at [**My Github Repositories**](https://github.com/ImKetan1610?tab=repositories)
 - 📝 I regularly write articles on [**My Blogs**](https://medium.com/@ketan.makode)
 - 💬 Ask me about **react, JS, redux**
