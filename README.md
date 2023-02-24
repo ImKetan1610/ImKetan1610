@@ -34,8 +34,8 @@ Here are some ideas to get you started:
 - 📝 I regularly write articles on [**My Blogs**](https://medium.com/@ketan.makode)
 - 💬 Ask me about **react, JS, redux**
 - 📫 How to reach me **ketan.makode@gmail.com**
-- 👨🏻‍🎓 Know about my experiences [**My Resume**](https://drive.google.com/file/d/1GRjjYMqJAbb1Tz8yOox9KTGbz3zSSuqN/view?usp=sharing)
-- 💬 Have a look at my [**Portfolio**](https://ketan-makode.netlify.app/)
+- 👨🏻‍🎓 Know about my experiences [**My Resume**](https://docs.google.com/document/d/1JdbW8CQNCJXndTP5n-3eoNJEKXjv6RtDv6bj1bbjyh8/edit?usp=sharing)
+- 💬 Have a look at my [**Portfolio**](https://imketan1610.github.io/)
 - You can connect with me on [**LinkedIn**](https://www.linkedin.com/in/ketan-makode/)
 
 
