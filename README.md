@@ -181,9 +181,11 @@ Here are some ideas to get you started:
 
 <h2><i>My GitHub Stats</i></h2>
 
-<p>
+<p align="center">
     <img  src="https://github-readme-stats.vercel.app/api?username=imketan1610&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=10&locale=en&theme=dark&layout=compact" alt="ImKetan1610" height="150"  />
-<!--     </p><p> -->
+    </p>
+    <br />
+    <p align="center">
     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imketan1610&layout=compact&border_radius=10&theme=dark&show_icons=true" alt="ImKetan1610" width= "50%" height="150"/>
 </p>
 <br>
