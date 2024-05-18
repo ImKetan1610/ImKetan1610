@@ -90,7 +90,7 @@ Here are some ideas to get you started:
 </h3>
 
 <h3>
-    <i>👨🏻‍🎓 Know about my experiences [My Resume](https://drive.google.com/file/d/1yMiASC8wr7m2kYEzfO42Cuw8RpEv-sSc/view?usp=share_link)</i>
+    <i>- 👨🏻‍🎓 Know about my experiences [My Resume](https://drive.google.com/file/d/1yMiASC8wr7m2kYEzfO42Cuw8RpEv-sSc/view?usp=share_link) </i>
 </h3>
 
 <h3>
