@@ -74,7 +74,10 @@ Here are some ideas to get you started:
    <img src="https://avatars.githubusercontent.com/u/62344326?v=4" width="35" >
 </h1>
 <p align="center"><img src="https://readme-typing-svg.herokuapp.com?font=times+new+roman&size=18&duration=4000&color=2691F7&lines=-+I'm+a+Full+Stack+Web+Developer+skilled+in+MERN+stack;-+I+focus+on+writing+clean,+elegant+and+efficient+code;-+I+enjoy+learning+new+things" style="margin: auto;"></p>
-<img align="center" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+<p align="center" >
+    
+<img  height = "200" src="https://camo.githubusercontent.com/7de37139d0b4c1ce40865e799b446c0e963a3dd8fb68d239707237c40604fa3d/68747470733a2f2f63646e2e6472696262626c652e636f6d2f75736572732f3733303730332f73637265656e73686f74732f363538313234332f6176656e746f2e676966">
+</p>
 
 <!----------------------------------- About Section ------------------------------------>
 
@@ -90,15 +93,15 @@ Here are some ideas to get you started:
 </h3>
 
 <h3>
-    <i>- 👨🏻‍🎓 Know about my experiences [My Resume](https://drive.google.com/file/d/1yMiASC8wr7m2kYEzfO42Cuw8RpEv-sSc/view?usp=share_link) </i>
+    <i>- 👨🏻‍🎓 Know about my experiences <a href="https://drive.google.com/file/d/1yMiASC8wr7m2kYEzfO42Cuw8RpEv-sSc/view?usp=share_link" target="_blank">My Resume</a></i>
 </h3>
 
 <h3>
-    <i>- 💬 Have a look at my [Portfolio](https://imketan1610.github.io/)</i>
+    <i>- 💬 Have a look at my <a href="https://imketan1610.github.io/" target="_blank">Portfolio</a></i>
 </h3>
 
 <h3>
-    <i>-  You can connect with me on [LinkedIn](https://www.linkedin.com/in/ketan-makode/)</i>
+    <i>-  You can connect with me on <a href="https://www.linkedin.com/in/ketan-makode/" target="_blank">LinkedIn</a></i>
 </h3>
 <br>
 
@@ -179,9 +182,9 @@ Here are some ideas to get you started:
 <h2><i>My GitHub Stats</i></h2>
 
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=imketan1610&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=10&locale=en&theme=dark&layout=compact" alt="ImKetan1610" height="150" width="500" />
-    </p><p>
-    <img align="right" src="https://github-readme-stats.vercel.app/api/top-langs/?username=imketan1610&layout=compact&border_radius=10&theme=dark&show_icons=true" alt="ImKetan1610" height="150" width="500" />
+    <img  src="https://github-readme-stats.vercel.app/api?username=imketan1610&show_icons=true&include_all_commits=true&count_private=true&hide=issues,contribs&border_radius=10&locale=en&theme=dark&layout=compact" alt="ImKetan1610" height="150"  />
+<!--     </p><p> -->
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=imketan1610&layout=compact&border_radius=10&theme=dark&show_icons=true" alt="ImKetan1610" width= "50%" height="150"/>
 </p>
 <br>
 <p align="center">
