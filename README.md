@@ -94,7 +94,7 @@ Here are some ideas to get you started:
 </h3>
 
 <h3>
-    <i>- 👨🏻‍🎓 Know about my experiences <a href="https://drive.google.com/file/d/1yMiASC8wr7m2kYEzfO42Cuw8RpEv-sSc/view?usp=share_link" target="_blank">My Resume</a></i>
+    <i>- 👨🏻‍🎓 Know about my experiences <a href="https://drive.google.com/file/d/1FhhB5KYR4v8UDr8oqTEpeqzDlocLMsCI/view?usp=sharing" target="_blank">My Resume</a></i>
 </h3>
 
 <h3>
