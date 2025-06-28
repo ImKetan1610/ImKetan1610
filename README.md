@@ -24,7 +24,7 @@
 </h3>
 
 <h3>
-    <i>- Currently working at Tejas Networks as a SWE</i>
+    <i>- 👨🏻‍💻 Currently working at Tejas Networks as a SWE</i>
 </h3>
 <h3>
     <i>- 📫 How to reach me ketan.makode@gmail.com</i>
