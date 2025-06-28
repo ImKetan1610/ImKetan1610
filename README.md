@@ -20,7 +20,7 @@
 <!----------------------------------- About Section ------------------------------------>
 
 <h3>
-    <i>- I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
+    <i>- </> I'm a Full Stack Web Developer skilled in MERN stack who focuses on writing clean, elegant and efficient code.</i>
 </h3>
 
 <h3>
@@ -39,7 +39,7 @@
 </h3>
 
 <h3>
-    <i>-  You can connect with me on <a href="https://www.linkedin.com/in/ketan-makode/" target="_blank">LinkedIn</a></i>
+    <i>- ℹ️ You can connect with me on <a href="https://www.linkedin.com/in/ketan-makode/" target="_blank">LinkedIn</a></i>
 </h3>
 <br>
 
